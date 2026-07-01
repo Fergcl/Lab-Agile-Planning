@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: This template is for creating user stories
+about: This template is for creating user stories to deploy in Kanban
 title: ''
 labels: ''
 assignees: ''
